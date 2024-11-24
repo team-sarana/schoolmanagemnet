@@ -5,6 +5,7 @@ import Script from "next/script";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import ReactQueryProvider from "./lib/ReactQueryProvider";
+import Breadcrumb from "@/components/Breadcrumb";
 
 const inter = Inter({ subsets: ["latin"] });
 
